@@ -1,6 +1,5 @@
 # Hi, I’m Hayri
 
-
 <div align="center">
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/></code>
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
@@ -37,41 +36,45 @@
 | **VenBnB**     | A full-stack Python app for registering and booking properties.                              | Python, Flask, PostgreSQL                          |
 
 
+
 ## Technical Skills
 
-### Languages
-- JavaScript
-- Python
-- Swift
-- HTML
-- CSS
-- SQL (PostgreSQL)
+**Languages:** JavaScript, Python, Swift, HTML, CSS, SQL (PostgreSQL)  
+**Frameworks:** React, Node.js, Flask, Django  
+**Databases:** PostgreSQL, MongoDB  
+**Testing:** Pytest, Vitest, Jest, Cypress  
+**Version Control & Tools:** Git, GitHub, GitHub Actions, Docker, AWS Cloud Platform, AWS CLI, Terraform, Jenkins, VS Code, Visual Studio
 
-### Frameworks
-- React
-- Node.js
-- Flask
-- Django
+## Experience
 
-### Databases
-- PostgreSQL
-- MongoDB
+### Junior Software Engineer
+**Makers Academy** — London, United Kingdom  
+*Jan 2024 – May 2024*
 
-### Testing
-- Pytest
-- Vitest
-- Jest
-- Cypress
+- Specialized in Python and JavaScript, with a strong understanding of syntax, data structures, control flow, functions, and concurrent programming.
+- Developed web applications using Python and Flask, including test-driven development and SQL database integration.
+- Proficient in setting up CI/CD pipelines and deploying applications to the cloud.
+- Experienced with JavaScript, Node.js, and React, focusing on building interactive user interfaces.
+- Applied comprehensive testing methodologies to ensure code quality and reliability.
+- Utilized command-line tools, Git version control, pair programming, and agile methodologies effectively.
+- Demonstrated strong project planning and task delegation skills through successful team projects.
 
-### Version Control & Tools
-- Git
-- GitHub
-- GitHub Actions
-- Docker
-- AWS Cloud Platform
-- AWS CLI
-- Terraform
-- Jenkins
-- VS Code
-- Visual Studio
+### Restaurant Manager
+**Various Establishments** — London & Essex  
+*Jan 2014 – Jan 2024*
+
+- Oversaw operations in high-volume restaurants, ensuring high standards of quality and efficiency.
+- Managed recruitment, scheduling, inventory, and budgeting to maintain profitability.
+- Enhanced customer satisfaction through proactive complaint resolution and quality control measures.
+- Trained staff and implemented cost-saving initiatives, resulting in significant sales increases.
+
+### Owner/Manager
+**The Boutique Pink** — London, United Kingdom  
+*Jan 2011 – Jan 2014*
+
+- Operated a retail business specializing in party and night-out dresses.
+- Managed all business aspects, including importing inventory, sales, and inventory management.
+- Developed marketing strategies to attract customers and boost sales.
+- Provided exceptional customer service, improving the overall shopping experience.
+- Handled financial transactions, budgeting, and bookkeeping to ensure business profitability.
 
