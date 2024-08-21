@@ -1,30 +1,24 @@
 # Hi, I’m Hayri
 
 
-## Tech Stack
+<div align="center">
+	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/></code>
+	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
+	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
+	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
+	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
+ 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
+	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code>
+	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
+	<code><img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django" title="Django"/></code>
+	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></code>
+	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code>
+	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
+	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" alt="CI/CD" title="CI/CD"/></code>
+</div>
+<br>
 
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
-  <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="HTML5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
-  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" alt="Ruby" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="CI/CD" width="50" height="50"/>
-</p>
-
-### About Me
-
-👀 I'm a full-stack developer with a passion for Python and JavaScript. Over the years, I've honed my skills to tackle complex development challenges, from integrating databases to deploying cloud services and ensuring everything is thoroughly tested.
-
-Before transitioning into software, I spent over a decade managing restaurants, where I gained extensive experience in operations, scheduling, budget management, and team leadership. This background gives me a unique blend of technical skills and a strong operational mindset. I'm committed to continuous learning and excited to bring my mix of technical and operational expertise to innovative projects in the tech world. 👀
+👀  I'm a software developer and quality engineer. I thrive on solving development challenges, whether it's integrating databases, working with cloud services, or ensuring seamless functionality through thorough testing. My journey began with over a decade in restaurant management, where I developed strong skills in scheduling, budgeting, staff training, and operational efficiency. 👀
 
 🌱 I'm currently upskilling in cloud engineering, focusing on AWS. I'm working on deploying apps using GitHub Actions, Terraform, and Kubernetes. I also recently completed a bootcamp at Makers Academy, focusing on Python, JavaScript, and DevOps. 🌱
 
@@ -41,3 +35,43 @@ Before transitioning into software, I spent over a decade managing restaurants, 
 | **Fridge Wizard** | A web application tracking food expiry dates and suggesting recipes using a 3rd-party API. | JavaScript, React, Python, Django, MongoDB, pytest, 3rd-party API |
 | **Acebook**    | A social media app built as part of a team with distinct front- and backend roles.           | JavaScript, React, Go, Gin, PostgreSQL             |
 | **VenBnB**     | A full-stack Python app for registering and booking properties.                              | Python, Flask, PostgreSQL                          |
+
+
+## Technical Skills
+
+### Languages
+- JavaScript
+- Python
+- Swift
+- HTML
+- CSS
+- SQL (PostgreSQL)
+
+### Frameworks
+- React
+- Node.js
+- Flask
+- Django
+
+### Databases
+- PostgreSQL
+- MongoDB
+
+### Testing
+- Pytest
+- Vitest
+- Jest
+- Cypress
+
+### Version Control & Tools
+- Git
+- GitHub
+- GitHub Actions
+- Docker
+- AWS Cloud Platform
+- AWS CLI
+- Terraform
+- Jenkins
+- VS Code
+- Visual Studio
+
