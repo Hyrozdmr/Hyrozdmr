@@ -1,4 +1,5 @@
-# Hi, I’m Hayri https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-medium/1f468-200d-1f4bb@2x.png
+# Hi, I’m Hayri ![image](https://github.com/user-attachments/assets/ead553a8-6dd4-44df-8420-66732b98c0da)
+
 
 
 
