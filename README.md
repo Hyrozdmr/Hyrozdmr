@@ -17,7 +17,7 @@
 </div>
 <br>
 
-👀  I'm a software developer and quality engineer. I thrive on solving development challenges, whether it's integrating databases, working with cloud services, or ensuring seamless functionality through thorough testing. My journey began with over a decade in restaurant management, where I developed strong skills in scheduling, budgeting, staff training, and operational efficiency. 👀
+👀  I'm a Software Engineer | Test-Driven Development, Object-Oriented Programming. I thrive on solving development challenges, whether it's integrating databases, working with cloud services, or ensuring seamless functionality through thorough testing. My journey began with over a decade in restaurant management, where I developed strong skills in scheduling, budgeting, staff training, and operational efficiency. 👀
 
 🌱 I'm currently upskilling in cloud engineering, focusing on AWS. I'm working on deploying apps using GitHub Actions, Terraform, and Kubernetes. I also recently completed a bootcamp at Makers Academy, focusing on Python, JavaScript, and DevOps. 🌱
 
