@@ -1,6 +1,6 @@
 # Hi, I’m Hayri
 
-### Postman | HTML | CSS | React | Node.js | JavaScript | TypeScript | Python | Django | PostgreSQL | MongoDB | Docker | CI/CD
+### **Postman** | HTML | CSS | React | Node.js | JavaScript | TypeScript | Python | Django | PostgreSQL | MongoDB | Docker | CI/CD
 
 👀 I'm a full-stack developer with a passion for Python and JavaScript. Over the years, I've honed my skills to tackle complex development challenges, from integrating databases to deploying cloud services and ensuring everything is thoroughly tested.
 
