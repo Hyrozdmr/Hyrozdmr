@@ -1,4 +1,5 @@
-# Hi, I’m Hayri ![image](https://github.com/user-attachments/assets/a5c85276-7d01-492a-8a46-1fbd7c8a5fff)
+# Hi, I’m Hayri ![image](https://github.com/user-attachments/assets/01830945-9225-4744-8175-371d26972f5b)
+
 
 
 <div align="center">
