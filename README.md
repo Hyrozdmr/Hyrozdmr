@@ -32,7 +32,7 @@
 | Project        | Description                                                                                 | Tech Stack                                         |
 |----------------|---------------------------------------------------------------------------------------------|----------------------------------------------------|
 |**Fridge Wizard** - A web application tracking food expiry dates and suggesting recipes to users supplied by 3rd-party API|https://fridgewizard.onrender.com/|Javascript, React, Python, Django, MongoDB, pytest, 3rd party API|
-|**Cappybook** - Social media app built as part of a team with distinct front- and backend roles|https://github.com/Hyrozdmr/Cappybook|Javascript, React, Go, Gin, PostgreSQL|
+|**Cappybook** - Social media app built as part of a team with distinct front- and backend roles|https://cappybook.onrender.com/|Javascript, React, Go, Gin, PostgreSQL|
 |**VenBnB** - Full stack Python app for registering and booking properties|https://github.com/gdloparco/makersbnb-awe-team|Python, Flask, PostgreSQL|
 
 
