@@ -23,7 +23,7 @@
 
 💞️ I love learning and working in a team, so if you're looking to collaborate on anything from apps to Stellaris mods, send me a message! 💞️
 
-📫 If you want to learn more, check out my CV on GitHub Pages or reach out on LinkedIn or here on GitHub. You can also send me a challenge on Codewars. 📫
+📫 If you want to hear more, check out my CV on [GitHub Pages]() or reach out on [LinkedIn](https://www.linkedin.com/in/hayri-ozdemir-29a229199/) or here on [GitHub](https://github.com/Hyrozdmr). Or you could send me a challenge on [Codewars](https://www.codewars.com/users/Hayri0zdemir) 📫
 
 **Pronouns:** he/him
 
@@ -31,9 +31,9 @@
 
 | Project        | Description                                                                                 | Tech Stack                                         |
 |----------------|---------------------------------------------------------------------------------------------|----------------------------------------------------|
-| **Fridge Wizard** | A web application tracking food expiry dates and suggesting recipes using a 3rd-party API. | JavaScript, React, Python, Django, MongoDB, pytest, 3rd-party API |
-| **Acebook**    | A social media app built as part of a team with distinct front- and backend roles.           | JavaScript, React, Go, Gin, PostgreSQL             |
-| **VenBnB**     | A full-stack Python app for registering and booking properties.                              | Python, Flask, PostgreSQL                          |
+|**Fridge Wizard** - A web application tracking food expiry dates and suggesting recipes to users supplied by 3rd-party API|https://fridgewizard.onrender.com/|Javascript, React, Python, Django, MongoDB, pytest, 3rd party API|
+|**Cappybook** - Social media app built as part of a team with distinct front- and backend roles|https://github.com/Hyrozdmr/Cappybook|Javascript, React, Go, Gin, PostgreSQL|
+| **VenBnB**     | A full-stack Python app for registering and booking properties.                              | Python, Flask, PostgreSQL                          |(https://github.com/gdloparco/makersbnb-awe-team)
 
 
 
