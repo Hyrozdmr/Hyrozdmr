@@ -21,7 +21,7 @@
 
 🌱 I'm currently upskilling in cloud engineering, focusing on AWS. I'm working on deploying apps using GitHub Actions, Terraform, and Kubernetes. I also recently completed a bootcamp at Makers Academy, focusing on Python, JavaScript, and DevOps. 🌱
 
-💞️ I love learning and working in a team, so if you're looking to collaborate on anything from apps to Stellaris mods, send me a message! 💞️
+💞️ I love learning and working in a team, so if you're looking to collaborate on anything from apps to Stellaris mods, send me a message!
 
 📫 If you want to hear more, check out my CV on [GitHub Pages]() or reach out on [LinkedIn](https://www.linkedin.com/in/hayri-ozdemir-29a229199/) or here on [GitHub](https://github.com/Hyrozdmr). Or you could send me a challenge on [Codewars](https://www.codewars.com/users/Hayri0zdemir) 📫
 
