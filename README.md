@@ -52,7 +52,7 @@
 ## Experience
 
 ### Junior Software Developer & Cloud Engineer Intern
-**Makers Academy**  — London, United Kingdom 
+**Makers Academy** — London, United Kingdom 
 *Jan 2024 – Sep 2024*
 
 - Developed and deployed full-stack applications with Python, Flask, React, and SQL.
