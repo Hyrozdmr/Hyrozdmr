@@ -20,9 +20,9 @@
 </div>
 <br>
 
-👀  I'm a Software Engineer | Test-Driven Development, Object-Oriented Programming. I thrive on solving development challenges, whether it's integrating databases, working with cloud services, or ensuring seamless functionality through thorough testing. My journey began with over a decade in restaurant management, where I developed strong skills in scheduling, budgeting, staff training, and operational efficiency. 👀
+👀  I'm a Junior Software Developer with expertise in full-stack development, cloud engineering, and DevOps practices. Proficient in Python, JavaScript, and cloud services (AWS), with hands-on experience in automating and deploying scalable cloud solutions using Docker, Kubernetes, CI/CD pipelines, and serverless architectures. A collaborative team player with a focus on delivering high-quality solutions efficiently. Backed by 10+ years of leadership and project management skills from the restaurant industry, I thrive in fast-paced environments and am eager to apply my technical knowledge in building innovative solutions. 👀
 
-🌱 I'm currently upskilling in cloud engineering, focusing on AWS. I'm working on deploying apps using GitHub Actions, Terraform, and Kubernetes. I also recently completed a bootcamp at Makers Academy, focusing on Python, JavaScript, and DevOps. 🌱
+🌱 Recently, I completed a Cloud Engineering & DevOps specialization at Makers Academy, focusing on AWS. I'm working on deploying apps using GitHub Actions, Terraform, and Kubernetes. I also recently completed a bootcamp at Makers Academy, focusing on Python, JavaScript, and DevOps. 🌱
 
 💞️ I love learning and working in a team, so if you're looking to collaborate on anything from apps to Stellaris mods, send me a message!
 
@@ -42,25 +42,27 @@
 
 ## Technical Skills
 
-**Languages:** JavaScript, Python, Swift, HTML, CSS, SQL (PostgreSQL)  
-**Frameworks:** React, Node.js, Flask, Django  
-**Databases:** PostgreSQL, MongoDB  
-**Testing:** Pytest, Vitest, Jest, Cypress  
-**Version Control & Tools:** Git, GitHub, GitHub Actions, Docker, AWS Cloud Platform, AWS CLI, Terraform, Jenkins, VS Code, Visual Studio
+**Languages:** Python, JavaScript, Swift, HTML, CSS, SQL (PostgreSQL)
+**Frameworks:** React, Node.js, Flask, Django
+**Cloud/DevOps:** AWS (EC2, S3, Lambda, RDS), Docker, Terraform, Kubernetes, Jenkins, CI/CD (GitHub Actions, Jenkins)
+**Databases:** PostgreSQL, MongoDB
+**Testing:** Pytest, Vitest, Jest, Cypress
+**Tools:** Git, GitHub, VS Code, Visual Studio, AWS CLI
 
 ## Experience
 
-### Junior Software Engineer
-**Makers Academy** — London, United Kingdom  
-*Jan 2024 – May 2024*
+### Junior Software Developer & Cloud Engineer Intern
+**Makers Academy**  London
+*Jan 2024 – Sep 2024*
 
-- Specialized in Python and JavaScript, with a strong understanding of syntax, data structures, control flow, functions, and concurrent programming.
-- Developed web applications using Python and Flask, including test-driven development and SQL database integration.
-- Proficient in setting up CI/CD pipelines and deploying applications to the cloud.
-- Experienced with JavaScript, Node.js, and React, focusing on building interactive user interfaces.
-- Applied comprehensive testing methodologies to ensure code quality and reliability.
-- Utilized command-line tools, Git version control, pair programming, and agile methodologies effectively.
-- Demonstrated strong project planning and task delegation skills through successful team projects.
+- Developed and deployed full-stack applications with Python, Flask, React, and SQL.
+- Designed and deployed Docker images and containers for both development and production, enhancing deployment speed and scalability.
+- Managed Kubernetes clusters to orchestrate containers and ensure seamless application scaling.
+- Set up CI/CD pipelines using GitHub Actions and Jenkins for automated code deployment, improving delivery efficiency.
+- Deployed applications on AWS using EC2, S3, Lambda, and RDS services, including serverless deployment and load balancing techniques for increased reliability.
+- Applied Test-Driven Development (TDD) practices using Pytest, Vitest and Jest to ensure robust, bug-free applications.
+- Participated in Agile team environments, contributing through code reviews, pair programming, and daily stand-ups.
+
 
 ### Restaurant Manager
 **Various Establishments** — London & Essex  
