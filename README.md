@@ -16,7 +16,7 @@
   <code><img width="30" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" alt="CI/CD" title="CI/CD"/></code>
 </div>
 
-👀  I'm a Junior Software Developer with expertise in full-stack development, cloud engineering ☁️, and DevOps practices. Proficient in Python, JavaScript, and cloud services (AWS) 🌩️, with hands-on experience in automating and deploying scalable cloud solutions using Docker, Kubernetes, CI/CD pipelines, and serverless architectures. A collaborative team player with a focus on delivering high-quality solutions efficiently. Backed by 10+ years of leadership and project management skills from the restaurant industry, I thrive in fast-paced environments and am eager to apply my technical knowledge in building innovative solutions. 👀
+👀  I'm a Software Engineer with expertise in full-stack development, cloud engineering ☁️, and DevOps practices. Proficient in Python, JavaScript, and cloud services (AWS) 🌩️, with hands-on experience in automating and deploying scalable cloud solutions using Docker, Kubernetes, CI/CD pipelines, and serverless architectures. A collaborative team player with a focus on delivering high-quality solutions efficiently. Backed by 10+ years of leadership and project management skills from the restaurant industry, I thrive in fast-paced environments and am eager to apply my technical knowledge in building innovative solutions. 👀
 
 🌱 Recently, I completed a Cloud Engineering & DevOps specialization at Makers Academy, focusing on AWS. I'm working on deploying apps using GitHub Actions, Terraform, and Kubernetes. I also recently completed a bootcamp at Makers Academy, focusing on Python, JavaScript, and DevOps. 🌱
 
