@@ -32,9 +32,9 @@
 
 | Project        | Description                                                                                 | Tech Stack                                         |
 |----------------|---------------------------------------------------------------------------------------------|----------------------------------------------------|
-|**Fridge Wizard** - A web application tracking food expiry dates and suggesting recipes to users supplied by 3rd-party API|https://fridgewizard.onrender.com/|Javascript, React, Python, Django, MongoDB, pytest, 3rd party API|
-|**Cappybook** - Social media app built as part of a team with distinct front- and backend roles|https://cappybook.onrender.com/|Javascript, React, Go, Gin, PostgreSQL|
-|**VenBnB** - Full stack Python app for registering and booking properties|https://github.com/gdloparco/makersbnb-awe-team|Python, Flask, PostgreSQL|
+|**Fridge Wizard** - Developed a full-stack app to track food expiration and suggest recipes, reducing food waste. Utilized MongoDB for flexible and scalable data storage|https://fridgewizard.onrender.com/|Javascript, React, Python, Django, MongoDB, pytest, 3rd party API|
+|**Cappybook** - Built a responsive social media platform with features like posting, liking, and commenting using Go and React. Integrated PostgreSQL for data storage and user management.|https://cappybook.onrender.com/|Javascript, React, Go, Gin, PostgreSQL|
+|**VenBnB** - •	Developed a secure property listing service with user authentication and data storage in PostgreSQL.|https://github.com/gdloparco/makersbnb-awe-team|Python, Flask, PostgreSQL|
 
 ---
 
@@ -42,10 +42,10 @@
 
 **Languages:** Python, JavaScript, Swift, HTML, CSS, SQL (PostgreSQL)  
 **Frameworks:** React, Node.js, Flask, Django  
-**Cloud/DevOps:** AWS (EC2, S3, Lambda, RDS), Docker, Terraform, Kubernetes, Jenkins, CI/CD (GitHub Actions, Jenkins)  
+**Cloud/DevOps:** AWS (EC2, S3, Lambda, RDS), Docker, Terraform, Kubernetes, Jenkins, CI/CD (GitHub Actions)  
 **Databases:** PostgreSQL, MongoDB  
-**Testing:** Pytest, Vitest, Jest, Cypress  
-**Tools:** Git, GitHub, VS Code, Visual Studio, AWS CLI
+**Testing:** Pytest, Vitest, Jest
+**Tools:** Git, GitHub, VS Code, AWS CLI
 
 ---
 
