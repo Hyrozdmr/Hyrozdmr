@@ -32,7 +32,7 @@
 
 | Project        | Description                                                                                 | Tech Stack                                         |
 |----------------|---------------------------------------------------------------------------------------------|----------------------------------------------------|
-|**Fridge Wizard** - Developed a full-stack app to track food expiration and suggest recipes, reducing food waste. Utilized MongoDB for flexible and scalable data storage|https://fridgewizard.onrender.com/|Javascript, React, Python, Django, MongoDB, pytest, 3rd party API|
+|**Fridge Wizard** - Developed a full-stack app to track food expiration and suggest recipes to users supplied by 3rd-party API, reducing food waste. Utilized MongoDB for flexible and scalable data storage|https://fridgewizard.onrender.com/|Javascript, React, Python, Django, MongoDB, pytest, 3rd party API|
 |**Cappybook** - Built a responsive social media platform with features like posting, liking, and commenting using Go and React. Integrated PostgreSQL for data storage and user management.|https://cappybook.onrender.com/|Javascript, React, Go, Gin, PostgreSQL|
 |**VenBnB** - •	Developed a secure property listing service with user authentication and data storage in PostgreSQL.|https://venbnb-deployed.onrender.com/index|Python, Flask, PostgreSQL|
 
