@@ -1,28 +1,30 @@
 # Hi, I’m Hayri ![image](https://github.com/user-attachments/assets/ead553a8-6dd4-44df-8420-66732b98c0da)
 
 <div align="center">
-  <code><img width="30" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/></code>
-  <code><img width="30" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
-  <code><img width="30" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
-  <code><img width="30" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
-  <code><img width="30" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
-  <code><img width="30" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
-  <code><img width="30" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code>
-  <code><img width="30" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
-  <code><img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django" title="Django"/></code>
-  <code><img width="30" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></code>
-  <code><img width="30" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code>
-  <code><img width="30" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
-  <code><img width="30" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" alt="CI/CD" title="CI/CD"/></code>
+  <img width="30" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
+  <img width="30" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
+  <img width="30" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
+  <img width="30" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
+  <img width="30" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/>
+  <img width="30" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
+  <img width="30" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/>
+  <img width="30" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/>
+  <img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django" title="Django"/>
+  <img width="30" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/>
+  <img width="30" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="MongoDB" title="MongoDB"/>
+  <img width="30" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/>
+  <img width="30" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" alt="CI/CD" title="CI/CD"/>
 </div>
 
-👀  I'm a Software Engineer with expertise in full-stack development, cloud engineering ☁️, and DevOps practices. Proficient in Python, JavaScript, and cloud services (AWS) 🌩️, with hands-on experience in automating and deploying scalable cloud solutions using Docker, Kubernetes, CI/CD pipelines, and serverless architectures. A collaborative team player with a focus on delivering high-quality solutions efficiently. Backed by 10+ years of leadership and project management skills from the restaurant industry, I thrive in fast-paced environments and am eager to apply my technical knowledge in building innovative solutions. 👀
+---
 
-🌱 Recently, I completed a Cloud Engineering & DevOps specialization at Makers Academy, focusing on AWS. I'm working on deploying apps using GitHub Actions, Terraform, and Kubernetes. I also recently completed a bootcamp at Makers Academy, focusing on Python, JavaScript, and DevOps. 🌱
+👀  I'm a **Software Engineer** with expertise in **full-stack development**, **cloud engineering ☁️**, and **DevOps practices**. Proficient in **Python**, **JavaScript**, and cloud services (**AWS**) 🌩️, with hands-on experience in automating and deploying scalable cloud solutions using **Docker**, **Kubernetes**, **CI/CD pipelines**, and **serverless architectures**. A collaborative team player focused on delivering high-quality solutions efficiently, backed by 10+ years of **leadership and project management skills** from the restaurant industry. I thrive in fast-paced environments and am eager to apply my technical knowledge to build innovative solutions. 👀
 
-💞️ I love learning and working in a team, so if you're looking to collaborate on anything from apps to Stellaris mods, send me a message!
+🌱 I recently completed a **Cloud Engineering & DevOps specialization** at Makers Academy, focusing on AWS. I'm working on deploying apps using **GitHub Actions**, **Terraform**, and **Kubernetes**. I also completed a bootcamp at Makers Academy, focusing on **Python**, **JavaScript**, and **DevOps**. 🌱
 
-📫 If you want to hear more, check out my CV on [GitHub Pages]() or reach out on [LinkedIn](https://www.linkedin.com/in/hayri-ozdemir-29a229199/) or here on [GitHub](https://github.com/Hyrozdmr). Or you could send me a challenge on [Codewars](https://www.codewars.com/users/Hayri0zdemir) 📫
+💞️ I love learning and working in a team. If you're looking to collaborate on anything from apps to Stellaris mods, send me a message!
+
+📫 Want to know more? Check out my [CV on GitHub Pages]() or connect with me on [LinkedIn](https://www.linkedin.com/in/hayri-ozdemir-29a229199/) or [GitHub](https://github.com/Hyrozdmr). Or send me a challenge on [Codewars](https://www.codewars.com/users/Hayri0zdemir)!
 
 **Pronouns:** he/him
 
@@ -30,12 +32,12 @@
 
 ## 🛠️ Projects 🛠️
  
-|  Project     | Description                                                                           | Tech Stack                                      |
-|--------------|---------------------------------------------------------------------------------------|-------------------------------------------------|
-|**HOSP Reliability Project** [Presentation](https://youtu.be/hBR_kHngVb4?si=yM7tmqtacJNHoE6q)&[Reliabilty dashboard](https://github.com/user-attachments/assets/177020ce-54e5-40df-befb-85a3f5811b95)|During the Makers Cloud Engineering Specialism bootcamp, I worked on a final project focused on improving system reliability. In this project, our team was tasked with enhancing reliability using only access to the load balancer, without direct access to the codebase or the hops server. By analyzing traffic patterns and optimizing load balancing strategies, we successfully improved system reliability to 100%. This experience not only deepened my understanding of cloud infrastructure but also honed my problem-solving skills in high-pressure, resource-constrained environments. Watch our presentation on what we accomplished prior to finishing the project.|AWS (EC2, Athena, CloudWatch), Nginx, Postman, SQL
-|**[Fridge Wizard](https://fridgewizard.onrender.com/)**|Developed a full-stack app to track food expiration and suggest recipes to users supplied by 3rd-party API, reducing food waste. Utilized MongoDB for flexible and scalable data storage|Javascript, React, Python, Django, MongoDB, pytest, 3rd party API|
-|**[Cappybook](https://cappybook.onrender.com/)**|Built a responsive social media platform with features like posting, liking, and commenting using Go and React. Integrated PostgreSQL for data storage and user management.|Javascript, React, Go, Gin, PostgreSQL|
-|**[VenBnB](https://venbnb-deployed.onrender.com/index)**|Developed a secure property listing service with user authentication and data storage in PostgreSQL.|Python, Flask, PostgreSQL|
+|  Project        | Description                                                                                                                                               | Tech Stack                                         |
+|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
+| **HOSP Reliability Project** [Presentation](https://youtu.be/hBR_kHngVb4?si=yM7tmqtacJNHoE6q) ~ [Reliability dashboard](https://github.com/user-attachments/assets/177020ce-54e5-40df-befb-85a3f5811b95) | During the Makers Cloud Engineering Specialism bootcamp, I worked on a final project focused on improving system reliability. Our team improved reliability to 100% by optimizing load balancing with access only to the load balancer. This deepened my understanding of cloud infrastructure in resource-constrained environments. | AWS (EC2, Athena, CloudWatch), Nginx, Postman, SQL |
+| **[Fridge Wizard](https://fridgewizard.onrender.com/)** | Developed a full-stack app to track food expiration and suggest recipes to reduce waste. Utilized MongoDB for flexible and scalable data storage.              | JavaScript, React, Python, Django, MongoDB, Pytest, 3rd-party API |
+| **[Cappybook](https://cappybook.onrender.com/)** | Built a responsive social media platform with features like posting, liking, and commenting using Go and React. Integrated PostgreSQL for data storage.          | JavaScript, React, Go, Gin, PostgreSQL             |
+| **[VenBnB](https://venbnb-deployed.onrender.com/index)** | Developed a secure property listing service with user authentication and data storage in PostgreSQL.                                                           | Python, Flask, PostgreSQL                          |
 
 ---
 
@@ -45,7 +47,7 @@
 **Frameworks:** React, Node.js, Flask, Django  
 **Cloud/DevOps:** AWS (EC2, S3, Lambda, RDS), Docker, Terraform, Kubernetes, Jenkins, CI/CD (GitHub Actions)  
 **Databases:** PostgreSQL, MongoDB  
-**Testing:** Pytest, Vitest, Jest
+**Testing:** Pytest, Vitest, Jest  
 **Tools:** Git, GitHub, VS Code, AWS CLI
 
 ---
@@ -61,7 +63,7 @@
 - Managed Kubernetes clusters to orchestrate containers and ensure seamless application scaling.
 - Set up CI/CD pipelines using GitHub Actions and Jenkins for automated code deployment, improving delivery efficiency.
 - Deployed applications on AWS using EC2, S3, Lambda, and RDS services, including serverless deployment and load balancing techniques for increased reliability.
-- Applied Test-Driven Development (TDD) practices using Pytest, Vitest and Jest to ensure robust, bug-free applications.
+- Applied Test-Driven Development (TDD) practices using Pytest, Vitest, and Jest to ensure robust, bug-free applications.
 - Participated in Agile team environments, contributing through code reviews, pair programming, and daily stand-ups.
 
 ### Restaurant Manager  
