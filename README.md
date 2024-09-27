@@ -18,9 +18,7 @@
 
 ---
 
-👀  I'm a **Software Engineer** with expertise in **full-stack development**, **cloud engineering ☁️**, and **DevOps practices**. Proficient in **Python**, **JavaScript**, and cloud services (**AWS**) 🌩️, with hands-on experience in automating and deploying scalable cloud solutions using **Docker**, **Kubernetes**, **CI/CD pipelines**, and **serverless architectures**. A collaborative team player focused on delivering high-quality solutions efficiently, backed by 10+ years of **leadership and project management skills** from the restaurant industry. I thrive in fast-paced environments and am eager to apply my technical knowledge to build innovative solutions. 👀
-
-🌱 I recently completed a **Cloud Engineering & DevOps specialization** at Makers Academy, focusing on AWS. I'm working on deploying apps using **GitHub Actions**, **Terraform**, and **Kubernetes**. I also completed a bootcamp at Makers Academy, focusing on **Python**, **JavaScript**, and **DevOps**. 🌱
+👀  I'm a **Software Engineer** with expertise in **full-stack development**, **cloud engineering ☁️**, and **DevOps practices**. Proficient in **Python**, **JavaScript**, and cloud services (**AWS**), with hands-on experience in automating and deploying scalable cloud solutions using **Docker**, **Kubernetes**, **GitHub Actions**, **CI/CD pipelines**, and **serverless architectures**. A collaborative team player focused on delivering high-quality solutions efficiently, backed by 10+ years of **leadership and project management skills** from the restaurant industry. I thrive in fast-paced environments and am eager to apply my technical knowledge to build innovative solutions. 👀
 
 💞️ I love learning and working in a team. If you're looking to collaborate on anything from apps to Stellaris mods, send me a message!
 
