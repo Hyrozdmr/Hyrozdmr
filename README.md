@@ -22,7 +22,7 @@
 
 💞️ I love learning and working in a team. If you're looking to collaborate on anything from apps to Stellaris mods, send me a message!
 
-📫 Want to know more? Check out my [CV on GitHub Pages]() or connect with me on [LinkedIn](https://www.linkedin.com/in/hayri-ozdemir-29a229199/) or [GitHub](https://github.com/Hyrozdmr). Or send me a challenge on [Codewars](https://www.codewars.com/users/Hayri0zdemir)!
+📫 Want to know more? Check out my [Porfolio](https://hayriozdemir6.wixsite.com/hayri) or connect with me on [LinkedIn](https://www.linkedin.com/in/hayri-ozdemir-29a229199/) or [GitHub](https://github.com/Hyrozdmr). Or send me a challenge on [Codewars](https://www.codewars.com/users/Hayri0zdemir)!
 
 **Pronouns:** he/him
 
