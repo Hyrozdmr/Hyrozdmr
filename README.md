@@ -52,17 +52,31 @@
 
 ## 🧑‍💻 Experience
 
-### Junior Software Developer & Cloud Engineer  
-**Makers Academy** — London, United Kingdom  
-*Jan 2024 – Sep 2024*
+### Makers Academy — London, United Kingdom
+**Junior Cloud Engineering & DevOps Specialization**  
+*Jul 2024 – Oct 2024*
 
-- Developed and deployed full-stack applications with Python, Flask, React, and SQL.
-- Designed and deployed Docker images and containers for both development and production, enhancing deployment speed and scalability.
-- Managed Kubernetes clusters to orchestrate containers and ensure seamless application scaling.
-- Set up CI/CD pipelines using GitHub Actions and Jenkins for automated code deployment, improving delivery efficiency.
-- Deployed applications on AWS using EC2, S3, Lambda, and RDS services, including serverless deployment and load balancing techniques for increased reliability.
-- Applied Test-Driven Development (TDD) practices using Pytest, Vitest, and Jest to ensure robust, bug-free applications.
-- Participated in Agile team environments, contributing through code reviews, pair programming, and daily stand-ups.
+-	Gained in-depth experience with cloud architecture, containerization, and Infrastructure as Code (IaC) using tools like Terraform and AWS.
+-	Specialized in cloud deployment and orchestration, developing and deploying Docker containers for scalable, efficient cloud solutions.
+-	Managed Kubernetes clusters to orchestrate and scale containerized applications seamlessly.
+-	Implemented CI/CD pipelines with GitHub Actions and Jenkins to automate testing and deployment workflows.
+-	Deployed applications to AWS services (EC2, S3, Lambda, RDS), utilizing serverless architectures and load balancing to enhance reliability and performance.
+-	Optimized system reliability by enhancing load balancing, achieving 100% reliability in resource-constrained environments, further solidifying my expertise in cloud infrastructure
+
+
+**Junior Software Engineer**                                                                                                                                             
+*Jan 2024 - Jun 2024*
+
+Collaborated in diverse teams to deliver full-stack solutions within tight timelines, utilizing a wide range of technologies and languages including Python, JavaScript, Swift, CSS, HTML, and the MERN stack (React, Express.js, MongoDB, Node.js). Additionally, worked with SQL databases, such as PostgreSQL and deployed applications using Flask and React.
+-	Implemented Test-Driven Development (TDD) using tools like Pytest, Vitest, and Jest, ensuring robust code through unit, integration, and feature tests.
+-	Practiced pair programming extensively to enhance collaboration and maintain high-quality code standards.
+-	Applied Object-Oriented Programming (OOP) principles, designing multi-class systems and mapping out database structures based on user stories.
+-	Followed a design-first approach, using diagrams for system visualizations before development.
+-	Worked effectively with legacy codebases, navigating and building on complex existing systems.
+-	Embraced Agile methodologies, actively participating in stand-ups, retros, pull request reviews, and pair programming to drive continuous improvement.
+-	Utilized Git & GitHub for version control and collaboration across projects.
+-	Developed rapid language learning and effective research skills, adapting quickly to new technologies.
+
 
 ### Restaurant Manager  
 **Various Establishments** — London & Essex  
