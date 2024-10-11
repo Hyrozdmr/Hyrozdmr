@@ -24,8 +24,10 @@
 
 📫 Want to know more? Check out my [Porfolio](https://hayriozdemir6.wixsite.com/hayri) or connect with me on [LinkedIn](https://www.linkedin.com/in/hayri-ozdemir-29a229199/) or [GitHub](https://github.com/Hyrozdmr). Or send me a challenge on [Codewars](https://www.codewars.com/users/Hayri0zdemir)!
 
-**Pronouns:** he/him
 
+📚 Currently Learning:
+I am working on a Movie Recommendation App 🎬, a web application that suggests movies based on user preferences like genres, ratings, and watch history. This app is built using Django for the backend, React for the frontend, and SQLite3 as the database. It integrates with the TMDb API to fetch movie data, providing personalized recommendations.
+ 
 ---
 
 ## 🛠️ Projects 🛠️
@@ -77,18 +79,12 @@ Collaborated in diverse teams to deliver full-stack solutions within tight timel
 -	Utilized Git & GitHub for version control and collaboration across projects.
 -	Developed rapid language learning and effective research skills, adapting quickly to new technologies.
 
+---
 
-### Restaurant Manager  
-**Various Establishments** — London & Essex  
-Oct 2015 – Jan 2024
-Directed day-to-day operations of high-volume restaurants, ensuring quality, efficiency, and profitability.
--	God's Own Pizza (Apr 2021 – Jan 2024): Played a key role in establishing the restaurant from scratch. Curated the menu, recruited and trained a full staff, and implemented quality control measures. Analysed profit and food beverage costs by entering all data into the Marketman system, managing inventory control, and organizing ordering within budget. By effectively dealing with suppliers and controlling costs, these efforts contributed to 90% of customers being repeat customers.
--	Haz Restaurant (May 2019 – Mar 2021): Managed a restaurant serving 300 covers per day with a weekly turnover of £60k. Led budgeting, staffing, and payroll management, consistently hitting monthly sales targets and maintaining profitability through strict cost control.
--	Simit Sarayi (Oct 2015 – May 2019): Led a flagship store with a weekly turnover of £25k. Implemented cost-saving initiatives that resulted in a 25% sales increase over three months while maintaining high customer satisfaction through proactive issue resolution.
+## 🎓 Education:
+**Makers Academy**                                                                                                                                                       
+Cloud Engineering & DevOps Specialization Bootcamp                                                                                                                    
+Software Engineering Bootcamp
 
-**Owner/Manager | The Boutique Pint** — London
-Oct 2011 – Sep 2015
--	Operated a retail business, managing sales, inventory, and marketing strategies to boost customer engagement and profits.
--	Bought all products, dealt with suppliers, and imported dresses and shoes, ensuring a diverse and appealing inventory.
--	Handled financial operations, ensuring profitability and business growth
-
+**Anadolu University**                                                                                                                                              
+Bachelor’s Degree in Business Administration and Management
