@@ -20,13 +20,13 @@
 
 👀  I'm a **Software Engineer** with expertise in **full-stack development**, **cloud engineering ☁️**, and **DevOps practices**. Proficient in **Python**, **JavaScript**, and cloud services (**AWS**), with hands-on experience in automating and deploying scalable cloud solutions using **Docker**, **Kubernetes**, **GitHub Actions**, **CI/CD pipelines**, and **serverless architectures**. A collaborative team player focused on delivering high-quality solutions efficiently, backed by 10+ years of **leadership and project management skills** from the restaurant industry. I thrive in fast-paced environments and am eager to apply my technical knowledge to build innovative solutions. 👀
 
-💞️ I love learning and working in a team. If you're looking to collaborate on anything from apps to Stellaris mods, send me a message!
 
 📫 Want to know more? Check out my [Porfolio](https://hayriozdemir6.wixsite.com/hayri) or connect with me on [LinkedIn](https://www.linkedin.com/in/hayri-ozdemir-29a229199/) or [GitHub](https://github.com/Hyrozdmr). Or send me a challenge on [Codewars](https://www.codewars.com/users/Hayri0zdemir)!
 
 
-📚 Currently Learning:
-I am working on a Movie Recommendation App 🎬, a web application that suggests movies based on user preferences like genres, ratings, and watch history. This app is built using Django for the backend, React for the frontend, and SQLite3 as the database. It integrates with the TMDb API to fetch movie data, providing personalized recommendations.
+📚 Currently Learning:                                                                                                                                                      
+I thrive on continuous improvement and have actively participated in kata challenges on Codewars, alongside upskilling through Codecademy.                                   
+I am currently working on a Movie Recommendation App 🎬, a web application that suggests movies based on user preferences like genres, ratings, and watch history. This app is built using Django for the backend, React for the frontend, and SQLite3 as the database. It integrates with the TMDb API to fetch movie data, providing personalized recommendations.
  
 ---
 
@@ -80,11 +80,3 @@ Collaborated in diverse teams to deliver full-stack solutions within tight timel
 -	Developed rapid language learning and effective research skills, adapting quickly to new technologies.
 
 ---
-
-## 🎓 Education:
-**Makers Academy**                                                                                                                                                       
-Cloud Engineering & DevOps Specialization Bootcamp                                                                                                                    
-Software Engineering Bootcamp
-
-**Anadolu University**                                                                                                                                              
-Bachelor’s Degree in Business Administration and Management
