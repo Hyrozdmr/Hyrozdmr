@@ -18,7 +18,8 @@
 
 ---
 
-👀  I'm a **Software Engineer** with expertise in **full-stack development**, **cloud engineering ☁️**, and **DevOps practices**. Proficient in **Python**, **JavaScript**, and cloud services (**AWS**), with hands-on experience in automating and deploying scalable cloud solutions using **Docker**, **Kubernetes**, **GitHub Actions**, **CI/CD pipelines**, and **serverless architectures**. A collaborative team player focused on delivering high-quality solutions efficiently, backed by 10+ years of **leadership and project management skills** from the restaurant industry. I thrive in fast-paced environments and am eager to apply my technical knowledge to build innovative solutions. 👀
+Ambitious and highly motivated **Junior Software Engineer** with specialized training in **full-stack development** and **DevOps engineering**. After completing a rigorous 16-week software bootcamp, I gained hands-on experience with modern web technologies, focusing on Python, JavaScript, React, Node.js, and Docker. As part of my final project, I led the development of a full-stack application using Django and MongoDB, which was a new tech stack for our team.                                                
+I further expanded my skills by completing an 8-week DevOps specialization, where I architected scalable cloud solutions on AWS, deployed serverless applications, and optimized CI/CD pipelines to boost efficiency. Passionate about continuous learning, I’m seeking my first professional role to apply my technical expertise and contribute to impactful projects.
 
 
 📫 Want to know more? Check out my [Porfolio](https://hayriozdemir6.wixsite.com/hayri) or connect with me on [LinkedIn](https://www.linkedin.com/in/hayri-ozdemir-29a229199/) or [GitHub](https://github.com/Hyrozdmr). Or send me a challenge on [Codewars](https://www.codewars.com/users/Hayri0zdemir)!
