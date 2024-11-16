@@ -18,8 +18,7 @@
 
 ---
 
-Ambitious and highly motivated **Junior Software Engineer** with specialized training in **full-stack development** and **DevOps engineering**. After completing a rigorous 16-week software bootcamp, I gained hands-on experience with modern web technologies, focusing on Python, JavaScript, React, Node.js, and Docker. As part of my final project, I led the development of a full-stack application using Django and MongoDB, which was a new tech stack for our team.                                                
-I further expanded my skills by completing an 8-week DevOps specialization, where I architected scalable cloud solutions on AWS, deployed serverless applications, and optimized CI/CD pipelines to boost efficiency. Passionate about continuous learning, I’m seeking my first professional role to apply my technical expertise and contribute to impactful projects.
+Full Stack Engineer with expertise in test-driven development and cloud technologies, combining technical skills in Python, JavaScript, and AWS with proven business leadership experience. Proficient in DevOps practices including Docker, Kubernetes, and CI/CD pipelines, bringing a unique perspective from successful operations management in high-pressure hospitality environments. Leverages customer-centric mindset and team leadership capabilities to deliver impactful technical solutions. Known for adapting quickly, driving operational efficiency, and translating business needs into technical implementations. Passionate about continuous learning and currently expanding capabilities in cloud architecture and modern development frameworks.
 
 
 📫 Want to know more? Check out my [Porfolio](https://hayriozdemir6.wixsite.com/hayri) or connect with me on [LinkedIn](https://www.linkedin.com/in/hayri-ozdemir-29a229199/) or [GitHub](https://github.com/Hyrozdmr). Or send me a challenge on [Codewars](https://www.codewars.com/users/Hayri0zdemir)!
@@ -28,6 +27,8 @@ I further expanded my skills by completing an 8-week DevOps specialization, wher
 📚 Currently Learning:                                                                                                                                                      
 I thrive on continuous improvement and have actively participated in kata challenges on Codewars, alongside upskilling through Codecademy.                                   
 I am currently working on a Movie Recommendation App 🎬, a web application that suggests movies based on user preferences like genres, ratings, and watch history. This app is built using Django for the backend, React for the frontend, and SQLite3 as the database. It integrates with the TMDb API to fetch movie data, providing personalized recommendations.
+
+•	Upcoming learning focus: PHP programming, C# .NET, TypeScript for backend and frontend capabilities.
  
 ---
 
