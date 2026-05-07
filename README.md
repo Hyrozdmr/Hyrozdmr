@@ -21,11 +21,7 @@
 Full Stack Engineer with expertise in test-driven development and cloud technologies, combining technical skills in Python, JavaScript, and AWS with proven business leadership experience. Proficient in DevOps practices including Docker, Kubernetes, and CI/CD pipelines, bringing a unique perspective from successful operations management in high-pressure hospitality environments. Leverages customer-centric mindset and team leadership capabilities to deliver impactful technical solutions. Known for adapting quickly, driving operational efficiency, and translating business needs into technical implementations. Passionate about continuous learning and currently expanding capabilities in cloud architecture and modern development frameworks.
 
 
-📫 Want to know more? Check out my [Porfolio](https://hayriozdemir6.wixsite.com/hayri) or connect with me on [LinkedIn](https://www.linkedin.com/in/hayri-ozdemir-29a229199/) or [GitHub](https://github.com/Hyrozdmr). Or send me a challenge on [Codewars](https://www.codewars.com/users/Hayri0zdemir)!
-
-
-📚 Currently Learning:                                                                                                                                                      
-I thrive on continuous improvement and have actively participated in kata challenges on Codewars, alongside upskilling through Codecademy.                                  
+Connect with me on [LinkedIn](https://www.linkedin.com/in/hayri-ozdemir-29a229199/) or [GitHub](https://github.com/Hyrozdmr). Or send me a challenge on [Codewars](https://www.codewars.com/users/Hayri0zdemir)!                                 
  
 ---
 
