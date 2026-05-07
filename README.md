@@ -25,10 +25,7 @@ Full Stack Engineer with expertise in test-driven development and cloud technolo
 
 
 📚 Currently Learning:                                                                                                                                                      
-I thrive on continuous improvement and have actively participated in kata challenges on Codewars, alongside upskilling through Codecademy.                                   
-I am currently working on a Movie Recommendation App 🎬, a web application that suggests movies based on user preferences like genres, ratings, and watch history. This app is built using Django for the backend, React for the frontend, and SQLite3 as the database. It integrates with the TMDb API to fetch movie data, providing personalized recommendations.
-
-•	Upcoming learning focus: PHP programming, C# .NET, TypeScript for backend and frontend capabilities.
+I thrive on continuous improvement and have actively participated in kata challenges on Codewars, alongside upskilling through Codecademy.                                  
  
 ---
 
